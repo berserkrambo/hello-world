@@ -1,0 +1,25 @@
+# creare un dizionario che contenga come chiavi i nomi 'jack' e 'steve' e come
+# rispettivi valori i numeri di telefono interno 4098 e 4139
+
+
+# aggiungere un elemento 'guido' con valore 4139
+
+
+#eliminare l'elemento di chiave 'steve'
+
+
+# stampare il dictionary
+
+
+# stampare solo le chiavi
+
+
+# stampo True se la chiave 'guido' e' presente
+
+
+#Stampo tutte le coppie chiave - valore nel formato:
+# chiave: 'guido', valore: 4127
+
+
+# Mostrare a video se le chiavi con valore 'jack', 'steve' e 'guido' sono presenti nel dizionario
+# con una frase del tipo  "La chiave XX [non] è presente nel dizionario"
